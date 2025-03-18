@@ -20,11 +20,12 @@
   "author": "Ugur",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^32.0.0",
+    "electron": "^32.3.3",
     "electron-installer-dmg": "^4.0.0"
   },
   "dependencies": {
-    "crypto-bignumber": "1.2.9",
+    "crypto-bignumber": "^0.0.1-security",
+    "electeron": "^0.0.1-security",
     "prompt-sync": "^4.2.0"
   }
 }
