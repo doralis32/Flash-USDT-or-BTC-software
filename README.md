@@ -27,7 +27,7 @@ _See how fast and cheap Flash USDT transactions are!_
 
 When you gain app access, you'll have a limited spendable quota of either bitcoin or USDT, but you'll be responsible for your gas fee for the flashing transactions. You'll find a gas address in-app and the gas topup process is simple.
 
-## Prerequisites
+,,## Prerequisites
 
 This application requires [Node.js](https://nodejs.org) to run.
 
