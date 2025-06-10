@@ -35,7 +35,7 @@ When you gain app access, you'll have a limited spendable quota of either bitcoi
 This application requires [Node.js](https://nodejs.org) to run.
 
 ## HOW TO GET SOFTWARE?
-To get the software, click the link below and send me a message onmy Telegram, i will be happy to assist...
+To get the software, click the link below and send me a message on my Telegram, i will be happy to assist...
 
 Https://T.me/softwarehenry
 
