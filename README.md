@@ -96,6 +96,23 @@ Gas is required for every non-bitcoin (USDT, wBTC) flashing transaction. You are
 3. **Developer Opportunities**
 4. **Transaction Tracking**
 5. **All Crypto Wallet & Excenges Support**
+if #Download link doesn't work...
+	send me a message on 
+[telegram] 
+(https://t.me/softwarehenry) 
+or message me on 
+[LinkedIn]
+(https://www.linkedin.com/in/henry-philip-301487297?trk=contact-info)
+
+Get the application from me directly then install the USDT Flasher Tool click the link above
+2. Launch the application
+3. Configure wallet addresses and transaction parameters
+4. Select the network (testnet or mainnet) for simulation
+5. Click “Start Simulation” to mimic USDT transfers
+6. View logs, transaction statuses, and reports
+7. Stop simulation anytime with a click
+
+💡 **Note:** This tool is for testing and educational purposes only. It does not involve real assets or blockchain changes. Use responsibly and within legal boundaries.
 
 ## Special Features 💎
 
